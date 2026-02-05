@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"__obj_control_init_window",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"__obj_control_init_window",
+  "parent":{
+    "name":"Control",
+    "path":"folders/Scripts/Control.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
